@@ -36,3 +36,4 @@ assert count.loc["AIRLINE COMPANIES"] == 1
 assert count.loc["AIRLINES"] == 1
 assert count.loc["ANALYTIC APPLICATIONS"] == 9
 assert count.loc["ANALYTIC MODEL"] == 4
+
